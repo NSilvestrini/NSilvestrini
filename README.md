@@ -4,5 +4,5 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NSilvestrini&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" /> 
-  <img width="41%" height="198px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSilvestrini&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSilvestrini&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 </div>
