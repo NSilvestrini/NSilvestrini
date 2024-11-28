@@ -1,4 +1,4 @@
-<img width=100% src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFvYjVvY294a3g1YmcxMG55eWR4MG02bXR5YjI2enFubWpiNDBkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PY6rZl1vZwLra/giphy.gif"/>
+<img width=100% src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDltbnp2Yjg2eXllbjRueGx5Y3F1cnpsOWd5dHptdWtrM3BjdjVoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MolTU2s7zDKhi/giphy.gif"/>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bokor&size=36&duration=4200&pause=1000&color=6A09B8&center=true&vCenter=true&width=1000&height=92&lines=Hello+World%2C+I'm+Nicolas+Silvestrini+;I'm+19+years+old+and+from+Brazil;Software+Engineering+student+at+FIAP;Lover+of+technology!;Welcome+to+my+profile!+%F0%9F%91%BE%F0%9F%90%A6%E2%80%8D%E2%AC%9B%F0%9F%8C%99)](https://git.io/typing-svg)
