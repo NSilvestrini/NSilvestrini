@@ -5,8 +5,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NSilvestrini&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false" /> 
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSilvestrini&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+  <img width="49%" height="195px" src="![NSilvestrini's Stats](https://github-readme-stats.vercel.app/api?username=NSilvestrini&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)" /> 
+  <img width="46%" height="195px" src="![NSilvestrini's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NSilvestrini&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)" />
 </div>
 
 
